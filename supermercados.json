@@ -16,7 +16,8 @@
                         "inicioOferta": "10/02/2021",
                         "finOferta": "28/02/2021"
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Palomitas de maíz con sal Hacendado para microondas",
@@ -26,7 +27,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "charcuteriaQuesos": [ 
@@ -38,7 +40,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Queso untar suave Hacendado blanco pasteurizado",
@@ -48,7 +51,8 @@
                         "inicioOferta": "15/03/2021",
                         "finOferta": "31/03/2021"
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "frutaVerdura": [
@@ -60,7 +64,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Aguacate",
@@ -70,7 +75,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "platosPreparados": [
@@ -82,7 +88,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Lasaña boloñesa Hacendado",
@@ -92,7 +99,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "postres": [ 
@@ -104,7 +112,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Gelatina sabor fresa Hacendado Gellytina",
@@ -114,7 +123,8 @@
                         "inicioOferta": "15/03/2021",
                         "finOferta": "31/03/2021"
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }
             ],
             "pescado": [
@@ -126,7 +136,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Surtido sushi contiene 2 sashimis de salmón y 2 de atún, 2 nigiris de salmón y 2 de ebi, 2 rolls de tobiko y 2 de salmón sésamo mix, 2 makis de atún y 2 de salmón",
@@ -136,7 +147,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }
             ]
         }, 
@@ -155,7 +167,8 @@
                         "inicioOferta": "10/02/2021",
                         "finOferta": "28/02/2021"
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Palomitas Microondas Sal Bolsa",
@@ -165,7 +178,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "charcuteriaQuesos": [ 
@@ -177,7 +191,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Queso Untar Natural Tarrina",
@@ -187,7 +202,8 @@
                         "inicioOferta": "15/03/2021",
                         "finOferta": "31/03/2021"
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "frutaVerdura": [
@@ -199,7 +215,8 @@
                         "inicioOferta": "23/03/2021",
                         "finOferta": "29/03/2021"
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Pieza precio aprox. - Aguacate Premadurado.",
@@ -209,7 +226,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "platosPreparados": [
@@ -221,7 +239,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Lasaña Boloñesa",
@@ -231,7 +250,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }
             ],
             "postres": [ 
@@ -243,7 +263,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": true
+                    "habitual": true, 
+                    "adquirido": true
                 }, 
                 {
                     "nombreProd": "Postre Gelificado Sabor Fresa Pack de 6 U",
@@ -253,7 +274,8 @@
                         "inicioOferta": "15/03/2021",
                         "finOferta": "31/03/2021"
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }
             ],
             "pescado": [
@@ -265,7 +287,8 @@
                         "inicioOferta": "",
                         "finOferta": ""
                     }],
-                    "habitual": false
+                    "habitual": false, 
+                    "adquirido": true
                 }
             ]
         }

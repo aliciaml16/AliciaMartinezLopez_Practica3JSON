@@ -16,6 +16,7 @@
 			<finOferta>28/02/2021</finOferta>
 		</oferta>
 		<habitual>false</habitual>
+		<adquirido>false</adquirido>
 	</aperitivos>
 	<aperitivos>
 		<nombreProd>Palomitas de maíz con sal Hacendado para microondas</nombreProd>
@@ -30,6 +31,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</aperitivos>
 	<charcuteriaQuesos>
 		<nombreProd>Fuet espetec extra Hacendado</nombreProd>
@@ -44,6 +46,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</charcuteriaQuesos>
 	<charcuteriaQuesos>
 		<nombreProd>Queso untar suave Hacendado blanco pasteurizado</nombreProd>
@@ -58,6 +61,7 @@
 			<finOferta>31/03/2021</finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</charcuteriaQuesos>
 	<frutaVerdura>
 		<nombreProd>Naranja</nombreProd>
@@ -72,6 +76,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</frutaVerdura>
 	<frutaVerdura>
 		<nombreProd>Aguacate</nombreProd>
@@ -86,6 +91,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</frutaVerdura>
 	<platosPreparados>
 		<nombreProd>Pizza 4 quesos Hacendado</nombreProd>
@@ -100,6 +106,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</platosPreparados>
 	<platosPreparados>
 		<nombreProd>Lasaña boloñesa Hacendado</nombreProd>
@@ -114,6 +121,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</platosPreparados>
 	<postres>
 		<nombreProd>Yogur griego natural Hacendado</nombreProd>
@@ -128,6 +136,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>true</habitual>
+		<adquirido>false</adquirido>
 	</postres>
 	<postres>
 		<nombreProd>Gelatina sabor fresa Hacendado Gellytina</nombreProd>
@@ -142,6 +151,7 @@
 			<finOferta>31/03/2021</finOferta>
 		</oferta>
 		<habitual>false</habitual>
+		<adquirido>false</adquirido>
 	</postres>
 	<pescado>
 		<nombreProd>Palitos de surimi Pescanova</nombreProd>
@@ -156,6 +166,7 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>false</habitual>
+		<adquirido>false</adquirido>
 	</pescado>
 	<pescado>
 		<nombreProd>Surtido sushi contiene 2 sashimis de salmón y 2 de atún, 2 nigiris de salmón y 2 de ebi, 2 rolls de tobiko y 2 de salmón sésamo mix, 2 makis de atún y 2 de salmón</nombreProd>
@@ -170,5 +181,6 @@
 			<finOferta></finOferta>
 		</oferta>
 		<habitual>false</habitual>
+		<adquirido>false</adquirido>
 	</pescado>
 </supermercados>
